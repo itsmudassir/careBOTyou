@@ -5,8 +5,8 @@ var https = require('https');
 var rp = require('request-promise');
 var motivation = require("motivation");
 
-var MICROSOFT_APP_ID = '2b72e45a-84b0-4f50-8615-e80cdcb7068c';
-var MICROSOFT_APP_PASSWORD = 'oqwrIM3244!@pckKXBJM8?]';
+var MICROSOFT_APP_ID = 'ab1e8d72-8500-46dc-a19a-3e73c53364e5';
+var MICROSOFT_APP_PASSWORD = 'y?2)-SR+xF#:Tm@&';
 
 var header = {'Content-Type':'application/json', 'Ocp-Apim-Subscription-Key':'6fb7959510a84e389985fd3343705e6b'}
 var requestUrl = 'https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment';
